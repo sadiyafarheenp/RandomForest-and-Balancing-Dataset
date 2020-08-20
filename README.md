@@ -1,1 +1,1 @@
-# RandomForest-and-Balancing-Dataset
+# RandomForest Classifier-and-Balancing-Dataset
